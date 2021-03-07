@@ -1,0 +1,32 @@
+h3{
+	
+			font-size: 50px;)
+			border: 5px solid red;
+			border-width: 10px;
+			border-style: dashed;
+			border-color: darkred;
+		
+}
+
+.head1{
+	text-align: justify-all;
+	background-color: lightblue;
+	text-transform: capitalize;
+	border: solid red 5px;
+
+}
+.head2{
+	transition-duration: 20px;
+	color: white;
+	background-color:darkblue; 
+}
+#heading1{
+	background-color: red;
+	text-align: center;
+	color: pink;
+}
+div{
+	width: 200px;
+	height: 100px;
+	background-color:rgba(255 19 4 / 90%);
+}	
